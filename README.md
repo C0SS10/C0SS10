@@ -8,16 +8,16 @@ I'm a **student** 🤓, developing my skills tp became a software engineer.
 ### My tools and lenguages knowledge
 🐍 I consider myself proficient in Python and React, and I'm always looking to improve. ⚛️
 
-#### <p align="center">Back-End</p>
+#### <h3 align="center">Back-End</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=java,spring,py" />
   </a>
 </p>
 
-#### <p align="center">Front-End</p>
+#### <h3 align="center">Front-End</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=react,tailwind,javascript" />
   </a>
 </p>
