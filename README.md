@@ -18,7 +18,7 @@ I'm a **student** 🤓, developing my skills tp became a software engineer.
 #### <h3 align="center">Front-End</h3>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,javascript" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,typescript" />
   </a>
 </p>
 
