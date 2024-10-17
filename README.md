@@ -11,7 +11,7 @@ I'm a **student** 🤓, developing my skills tp became a software engineer.
 #### <h3 align="center">Back-End</h3>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,spring,py" />
+    <img src="https://skillicons.dev/icons?i=java,postgres,py" />
   </a>
 </p>
 
